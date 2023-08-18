@@ -24,7 +24,7 @@ Here are some of the key repositories in our organization:
 
 # Development Guidelines
 
-Welcome to [Your Organization/Project Name]! This document outlines the best practices and guidelines for development, including Git branch strategy, commit messages, and other important considerations.
+Welcome to ASA Philippines! This document outlines the best practices and guidelines for development, including Git branch strategy, commit messages, and other important considerations.
 
 ## Git Branch Strategy
 
